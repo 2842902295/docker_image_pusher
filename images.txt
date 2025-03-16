@@ -1,1 +1,2 @@
 ollama/ollama:latest
+xprobe/xinference:latest
